@@ -12,7 +12,7 @@ The code for paper: [S2Transformer: Scalable Structured Transformers for Global 
 ```
 pip install -r requirements.txt
 ```
-2. Download the dataset from [[Code Ocean]](https://codeocean.com/capsule/0341365/tree/v1). And place them under the `./dataset` folder.
+2. Download the dataset from [[Baidu]](https://pan.baidu.com/s/1clDVJFtUXbmtQ-clfkinNg?pwd=6nef) and [[Code Ocean]](https://codeocean.com/capsule/0341365/tree/v1). And place them under the `./dataset` folder.
 
 3. Train and evaluate the model with the following scripts.
 
